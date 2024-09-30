@@ -1,0 +1,23 @@
+LOCUS       sample_1_5sit_01         713 bp    DNA     linear   UNK 01-JAN-1980
+DEFINITION  sample_1_5sit_01.
+ACCESSION   sample_1_5sit_01
+VERSION     sample_1_5sit_01
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tgtgaacgcc ttatccggcc tacaaaagca cgcaaactca atatattgca gagatcatgt
+       61 aggcctgata agcgtagcgc atcaggcaat ttagcgtttg aaactgcagg cttcagccgc
+      121 tgttgatctt ggctccattc aagtaggaga tggaggcgcc gcctttcttc acagtgctgt
+      181 acttttctct tatggtcagc agcctctcca ggccaaagcc cgctccacta ttgggttcat
+      241 gcacgtcgtg ggcggcgtcc ggtgggggcg agcatgggcc tcagagccct cttctcatcg
+      301 atccagaaca cctgcttgaa caggggcttg tcctcggtga tggtcatgcg agccagcgcg
+      361 tccttagaaa tgaagatggg ggtcctgacc tcgatgaagc cctcggccac cagggcgtcg
+      421 gcgatgtcat tcatcagctg ggtcagccca tggcggctgg ggttggcaat catgcccttg
+      481 atctttttct cgttgtctgt ggaagccacg gacatctcct tggagaaggc tgcatctcta
+      541 gaggccagat cttcaaacac cttctgctca taggtgccgt tgccatactc ccgcaggcgc
+      601 tggatctggg catctgtgta tttcactgtc atatgggatt cctcaaagcg taaacaacgt
+      661 ataacggcgt atgatcttat aagcgggaca ggctgacaac tcccgaggat cca
+//

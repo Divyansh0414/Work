@@ -1,0 +1,3 @@
+@HD	VN:1.6	SO:unsorted	GO:query
+@SQ	SN:pBK	LN:2854
+@PG	ID:minimap2	PN:minimap2	VN:2.28-r1209	CL:minimap2 -a /home/divy/work/ref_ma.fa /home/divy/work/SSRRBS_results/SSRRBS_raw/sample_2_CpKminiPCR_02.fastq

@@ -1,0 +1,29 @@
+LOCUS       sample_2_CpKm_02        1027 bp    DNA     linear   UNK 01-JAN-1980
+DEFINITION  sample_2_CpKm_02.
+ACCESSION   sample_2_CpKm_02
+VERSION     sample_2_CpKm_02
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tggatcctcg ggagttgtca gcctgtcccg cttataagat catacgccgt tatacgttgt
+       61 ttacgctttg aggaatccca tatgacagtg aaatacacag atgcccagat ccagcgcctg
+      121 cgggagtatg gcaacggcac ctatgagcag aaggtgtttg aagatctggc ctctagagat
+      181 gcagccttct ccaaggagat gtccgtggct tccacagaca acgagaaaaa gatcaagggc
+      241 atgattgcca accccagccg ccatgggctg acccagctga tgaatgacat cgccgacgcc
+      301 ctggtggccg agggcttcat cgaggtcagg acccccatct tcatttctaa ggacgcgctg
+      361 gctcgcatga ccatcaccga ggacaagccc ctgttcaagc aggtgttctg gatcgatgag
+      421 aagagggctc tgaggcccat gctcgccccc aacattgatt ccgtgatgcg ggacctgcgc
+      481 gaccacacgg acggccctgt gaaaattttc gaaatgggct cctgctttag gaaagaaagc
+      541 cacagcggaa tgcacctgga ggagttcacc atgctgaatc tgagtgacat ggggccaaga
+      601 ggagatgcca cagaagtgct gaagaactac atctcagtgg tcatgaaggc tgctggactg
+      661 cccgactatg atttggtgca ggaagagagc gatgtctaca aagaaaccat tgatgtggag
+      721 atcaatggcc aggaggtgtg ctctgctgcc gtgggccccc actacctgga cgccgcccac
+      781 gacgtgcatg aaccctggag tggagcgggc tttggcctgg agaggctgct gaccataaga
+      841 gaaaagtaca gcactgtgaa gaaaggcggc gcctccatct cctacttgaa tggagccaag
+      901 atcaacagcg gctgaagcct gcagtttcaa acgctaaatt gcctgatgcg ctacgcttat
+      961 caggcctaca tgatctctgc aatatattga gtttgcgtgc ttttgtaggc cggataaggc
+     1021 gttcaca
+//
